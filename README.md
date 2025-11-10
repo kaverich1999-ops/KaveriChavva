@@ -10,7 +10,12 @@ Over 4 years of experience delivering impactful software solutions across insura
 - **Backend:** Node.js, Express, Python  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud & CI/CD:** AWS, Jenkins, GitHub Actions  
-- **Testing:** PyTest, JUnit, Postman  
+- **Testing:** PyTest, JUnit, Postman
+- 
+### 🎓 Academic Projects
+
+- [Lab 01 – Home Page Prototype](https://github.com/Kaveri2810/is-5600-lab-01/tree/week01_submission)  
+  *Developed a responsive home page with navigation, hero image, and card layout using HTML & CSS.*
 
 ### 🌱 Currently Exploring  
 - AI & LLM Integrations  
