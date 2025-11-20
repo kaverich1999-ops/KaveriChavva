@@ -44,5 +44,5 @@ Over 4 years of experience delivering impactful software solutions across insura
 - Cloud-Native Development  
 - DevOps with Docker & Kubernetes  
 
-📫 **Contact me:** [kaverich1999@gmail.com](mailto:kaverich1999@gmail.com)  
+📫 **Contact me:** [kaverich1999@gmail.com](mailto:kaverichavva82@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/chavvakaveri](https://linkedin.com/in/chavvakaveri)
